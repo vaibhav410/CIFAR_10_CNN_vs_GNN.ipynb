@@ -12,8 +12,11 @@ Goal: understand how image data behaves in grid (CNN) vs graph (GNN) form
 Technologies Used:-
 
 1.Python
+
 2.PyTorch / PyTorch Geometric
+
 3.CIFAR-10 Dataset
+
 4.Google Colab / Jupyter Notebook
 
 
