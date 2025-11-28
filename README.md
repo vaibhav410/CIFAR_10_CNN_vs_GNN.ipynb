@@ -17,7 +17,7 @@ Technologies Used:-
 
 3.CIFAR-10 Dataset
 
-4.Google Colab / Jupyter Notebook
+4.Google Colab 
 
 
 ## How to Run
